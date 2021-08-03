@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @alesevilla82
 - I'm a Computer Engineer
+- I work in IT positions.
 - I looking to collaborate in Python proyects
 
 <!---
